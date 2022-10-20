@@ -1,0 +1,30 @@
+{
+  "students": [
+    {
+      "fullName": "AAAAA",
+      "standard": 10,
+      "hobbies": [
+        "programming",
+        "reading"
+      ]
+    },
+    {
+      "fullName": "BBBB",
+      "standard": 12,
+      "hobbies": [
+        "music",
+        "reading"
+      ]
+    },
+    {
+      "fullName": "CCCC",
+      "standard": 12,
+      "hobbies": [
+      ]
+    },
+    {
+
+    }
+  ]
+}
+
